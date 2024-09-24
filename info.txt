@@ -1,0 +1,7 @@
+border is used to represent border around the container
+
+we can represent it by using few properties they are:
+border-style
+border-radius
+border-width
+border-color

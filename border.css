@@ -1,0 +1,17 @@
+body{
+    border: 2px solid maroon;
+}
+h3{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 10px;
+}
+img{
+    width: 20%;
+    height: 20%;
+    border: 2px solid orangered;
+    border-radius: 20%;
+    border-width: 10px;
+    border-style:ridge;
+    margin: 10px;
+}
